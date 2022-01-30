@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Sydney Maves - CP255 Website for Final Assignment
+
+by Sydney Maves (Spring 2022) 
+
+The data set used for this project is sourced from ADD NAME OF SOURCE. Add a sentence or two about the daa set and what year it is from. 
 
 You can use the [editor on GitHub](https://github.com/sydneymaves/SydneyMaves-CP255-TermWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
